@@ -1,0 +1,84 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+/* FINE BACKGROUND */
+
+main {
+  font-family: 'Inter', sans-serif;
+  color: white;
+  width: 450px;
+  margin-left: 80px;
+}
+h2 {
+  display: inline-block;
+  margin-block-end: 0;
+}
+/* FONT PROPERTY */
+
+.container {
+  width: 900px;
+  height: 680px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 3%;
+}
+/* SFONDO NERO^ */
+
+img {
+  max-width: 100%;
+  max-height: 100%
+}
+.logo {
+  display: block;
+  width: 180px;
+  margin: auto;
+  padding-top: 60px;
+}
+.booleaners {
+  font-family: 'Inter', sans-serif;
+  color: rgb(19, 255, 19);
+  font-size: 35px;
+  width: 500px;
+  margin: auto;
+}
+/* FINE HEADER */
+
+.barranav {
+  background-color: rgb(19, 255, 19);
+  width: 750px;
+  height: 40px;
+  margin: auto;
+
+}
+
+div.barranav > div {
+  max-width: 100%;
+  width: 320px;
+  display: inline-block;
+  margin: auto;
+  padding: 9px;
+  margin-left: 220px;
+}
+/* FINE NAV */
+
+/* CHARGESTATUS-X */
+.chargestatus1 {
+  background-color: rgb(245, 180, 83);
+  width: 60%;
+  border-radius: 6px;
+  height: 25px;
+}
+.chargestatus2 {
+  background-color: rgb(30, 195, 30);
+  width: 90%;
+  border-radius: 6px;
+  height: 25px;
+}
+.chargestatus3 {
+  background-color: rgb(190, 65, 65);
+  width: 30%;
+  border-radius: 6px;
+  height: 25px;
+}
